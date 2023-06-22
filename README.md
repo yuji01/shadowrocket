@@ -11,3 +11,7 @@
 ```shell
 https://cdn.jsdelivr.net/gh/chavyleung/scripts/box/rewrite/boxjs.rewrite.surge.sgmodule
 ```
+## youtube去广告的模块
+```shell
+https://cdn.jsdelivr.net/gh/yuji01/shadowrocket/youtube_ads.module
+```
