@@ -7,3 +7,7 @@
   ```shell
   https://cdn.jsdelivr.net/gh/yuji01/shadowrocket/lazy.conf
   ```
+## boxjs的模块
+```shell
+https://cdn.jsdelivr.net/gh/chavyleung/scripts/box/rewrite/boxjs.rewrite.surge.sgmodule
+```
