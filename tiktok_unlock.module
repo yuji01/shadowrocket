@@ -1,7 +1,7 @@
-#!name=解锁tiktok
-#!desc=解锁日区tiktok
+#!name=TikTok解锁
+#!desc=默认解锁日区 TikTok
 [URL Rewrite]
-# 免拔卡解锁TikTok的重写，默认解锁地区为「日本」。需要换区时，请将下面一行的“JP”修改成其他国家或地区的英文名缩写，如“TW、KR、US”等。
+# 免拔卡解锁 TikTok 的重写，默认解锁地区为「日本」。需要换区时，请将下面一行的 "JP" 修改成其他国家或地区的英文名缩写，如"TW、KR、US"等。
 (?<=_region=)CN(?=&) JP 307
 (?<=&mcc_mnc=)4 2 307
 ^(https?:\/\/(tnc|dm)[\w-]+\.\w+\.com\/.+)(\?)(.+) $1$3 302
