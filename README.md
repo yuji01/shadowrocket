@@ -1,8 +1,8 @@
 # naruto自用的小火箭配置文件
 - 下载地址
-  ```shell
-  https://cdn.jsdelivr.net/gh/yuji01/shadowrocket/naruto.conf
-  ```
+```shell
+https://cdn.jsdelivr.net/gh/yuji01/shadowrocket/naruto.conf
+```
 # 模块下载
 - **boxjs**
 ```shell
